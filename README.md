@@ -23,11 +23,6 @@ GitHub Pages 地址：https://ghosteddie.github.io/keynote-generator/
 
 `src/generator.js` 集中维护句式、数字范围和产品替换；`src/main.jsx` 负责页面和交互；`src/style.css` 负责响应式布局。生成时排除上一句模板。
 
-## 调研参考
-
-调研提炼了“研发投入叙事”和“将微小细节数字化”两种表达结构，以下资料只作为结构参考，不是本工具夸张文案的真实出处：
-
-- [小米手机发布会全程实录（2011，新浪科技）](https://tech.sina.com.cn/i/2011-08-16/20105937302.shtml)：研发、供应链协作与数量化表达。
-- [Xiaomi 保温杯口袋版官方产品页](https://www.mi.com/hk/product/xiaomi-insulated-water-bottle/)：将杯壁、重量、容量等细节用数字讲清楚。
+## 文案说明
 
 用户给出的立项年数、研发月数、开会次数启发了首批模板，其余句式原创。这里的随机数字不代表任何实际品牌或产品。
